@@ -37,7 +37,7 @@ O projeto é uma plataforma de um pequeno e-commerce utilizando a API do stripe 
 1. Faça um clone do repositório:
 
 ```sh
-  $ git remote add origin git@github.com:aleksanderpalamar/pala-store.git
+  $ git remote add origin git@github.com:aleksanderpalamar/Pala-Store.git
 ```
 
 2. Executando a Aplicação:
